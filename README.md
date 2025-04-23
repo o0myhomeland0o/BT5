@@ -69,6 +69,7 @@ Tính chính xác: Loại bỏ sai sót do thủ công.
 Tiết kiệm thời gian: Tự động hóa quy trình thống kê.
 Minh bạch: Sinh viên có thể tự theo dõi tiến trình học tập.
 Lưu trữ bền vững: Dữ liệu được số hóa toàn bộ.
+
 ## Bài làm:
 # Tạo các table:
 * khoa
@@ -101,5 +102,8 @@ Lưu trữ bền vững: Dữ liệu được số hóa toàn bộ.
 ![image](https://github.com/user-attachments/assets/1997ddd7-9b40-4bd5-bf98-2a395ba64994)
 
 ## Diagram liên kết:
-![image](https://github.com/user-attachments/assets/9df58d55-c23e-4c19-a8ac-463ea2bf81f5)
+![image](https://github.com/user-attachments/assets/b4e5dfa9-ff04-44fa-b03c-142938285136)
+![image](https://github.com/user-attachments/assets/dc07c964-bc79-471a-93a1-1168e95c80e4)
+
+
 
