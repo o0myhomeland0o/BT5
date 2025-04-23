@@ -105,5 +105,9 @@ Lưu trữ bền vững: Dữ liệu được số hóa toàn bộ.
 ![image](https://github.com/user-attachments/assets/b4e5dfa9-ff04-44fa-b03c-142938285136)
 ![image](https://github.com/user-attachments/assets/dc07c964-bc79-471a-93a1-1168e95c80e4)
 
+* Hiện em chưa hiểu rõ về công thức tính toán về điểm tổng sau khi đã có nên em sẽ làm 1 trigger khác sau ạ.
 
+Trigger:
+![image](https://github.com/user-attachments/assets/057bb791-fd6c-4ab6-b019-ee80de563912)
 
+* Công dụng: trigger giúp trích xuất điểm theo mã sinh viên sau khi đã nhập đầy đủ thông tin và điểm.
